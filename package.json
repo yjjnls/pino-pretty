@@ -1,6 +1,6 @@
 {
   "name": "@yjjnls/pino-pretty",
-  "version": "3.5.0",
+  "version": "3.5.1",
   "description": "Prettifier for Pino log lines",
   "main": "index.js",
   "bin": {
@@ -19,7 +19,11 @@
   "keywords": [
     "pino"
   ],
-  "author": "yjjnls <x-jj@foxmail.com>",
+  "author": "James Sumners <james.sumners@gmail.com>",
+  "contributors": [
+    "James Sumners <james.sumners@gmail.com>",
+    "yjjnls <x-jj@foxmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yjjnls/pino-pretty/issues"
